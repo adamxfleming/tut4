@@ -1,5 +1,5 @@
 #contactpage{
-    opacity: 0%;
-    transition: opacity 1s;
+    position: relative;
+    transition: left 1s;
     font-family: 'Girassol', cursive;
 }
